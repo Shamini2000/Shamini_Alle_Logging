@@ -1,0 +1,16 @@
+2020-03-01 21:05:05 INFO  App:16 - Enter an option 1.Calculate Simple Interest 2.Calculate Compound Interest 3.exit
+2020-03-01 21:05:10 INFO  App:16 - Enter an option 1.Calculate Simple Interest 2.Calculate Compound Interest 3.exit
+2020-03-01 21:05:14 INFO  App:47 - Enter the value of money borrowed
+2020-03-01 21:05:16 INFO  App:49 - Enter the value of rate of interest
+2020-03-01 21:05:19 INFO  App:51 - Enter the time period
+2020-03-01 21:05:20 INFO  App:54 - Simple Interest = 2000.0
+2020-03-01 21:05:20 INFO  App:16 - Enter an option 1.Calculate Simple Interest 2.Calculate Compound Interest 3.exit
+2020-03-01 21:05:22 INFO  App:35 - Enter the principle
+2020-03-01 21:05:26 INFO  App:37 - Enter interest
+2020-03-01 21:05:30 INFO  App:39 - Enter the time period
+2020-03-01 21:05:31 INFO  App:41 - Enter the value of number of interest compounded per unit time period
+2020-03-01 21:05:35 INFO  App:44 - Compound Interest = 8640.0
+2020-03-01 21:05:35 INFO  App:16 - Enter an option 1.Calculate Simple Interest 2.Calculate Compound Interest 3.exit
+2020-03-01 21:05:38 INFO  App:14 - Enter the area of the house
+2020-03-01 21:05:44 INFO  App:19 - Enter the value 1.Standard materials 2.Above standard materials 3.High standard materials 4.High standard material and fully automated home 5.
+2020-03-01 21:05:46 INFO  App:25 - The total amount to construct a house is 2512500.0
